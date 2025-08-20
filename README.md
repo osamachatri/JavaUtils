@@ -22,9 +22,9 @@ Whether you’re a solo developer or part of a large team, this hub simplifies c
 
 | Category             | Description                                                | Status      |
 |----------------------|------------------------------------------------------------|-------------|
-| ✅ String Utils       | String reversal, capitalization, trimming, null safety    | 🔄 In Progress    |
+| ✅ String Utils       | String reversal, capitalization, trimming, null safety    | ✅ Ready    |
 | 🧪 Validation Utils   | Email, password, phone number format validators             | ✅ Ready    |
-| 📅 Date & Time Utils  | Date formatting, parsing, leap year checks, age calculation| 🔄 In Progress    |
+| 📅 Date & Time Utils  | Date formatting, parsing, leap year checks, age calculation| ✅ Ready    |
 | 🧮 Math Utils         | Common math functions, rounding, percentage calculations   | 🔄 Planned |
 | 🧰 Collection Utils   | Safe access, deep copying, filtering for Lists & Maps     | ⏳ Coming Soon |
 | 📂 File Utils         | File reading/writing, safe deletion, file metadata         | ⏳ Coming Soon  |
