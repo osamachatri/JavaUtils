@@ -29,7 +29,7 @@ Whether you’re a solo developer or part of a large team, this hub simplifies c
 | 🧰 Collection Utils   | Safe access, deep copying, filtering for Lists & Maps     | ✅ Ready |
 | 📂 File Utils         | File reading/writing, safe deletion, file metadata         | ✅ Ready  |
 | 🔐 Crypto Utils       | SHA hashing, password encryption, secure token handling    | ✅ Ready    |
-| 🔍 Reflection Utils   | Dynamic field access, method invocation, class introspection| ⏳ Coming Soon  |
+| 🔍 Reflection Utils   | Dynamic field access, method invocation, class introspection| ✅ Ready  |
 | 🔗 Network Utils      | URL pinging, IP extraction, HTTP client helpers             | ⏳ Coming Soon |
 | 🧵 Concurrency Utils  | Thread management, locks, executor services                 | ⏳ Coming Soon |
 
